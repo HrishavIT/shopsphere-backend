@@ -158,7 +158,7 @@ constraints, and indexes. See
 ### 1. Clone
 
 ``` bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/HrishavIT/shopsphere-backend
 cd ShopSphere
 ```
 
